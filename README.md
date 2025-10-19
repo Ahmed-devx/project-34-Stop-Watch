@@ -45,5 +45,3 @@ Track time precisely with **Start, Pause, Reset, and Lap** functionalities — a
 🌍 [GitHub](https://github.com/Ahmed-devx)
 
 ---
-
-Would you like me to make a **LinkedIn post caption** for this project too (like your car game and ATM ones)?
